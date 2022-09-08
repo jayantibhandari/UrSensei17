@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatyanti Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Jayanti Bhandari</h1>
 <h3 align="center">Passionate in UI/UX development</h3>
 
 - 🔭 I’m currently working on **Photoshop**
