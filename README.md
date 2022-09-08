@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.facebook.com/jayantibhandari123/"><img src="https://media.giphy.com/media/3GSoFVODOkiPBFArlu/giphy.gif" alt="my socials"></a>
 <p align="left">
 </p>
 
